@@ -1,16 +1,36 @@
-## Hi there 👋
+<!-- 中文版 -->
+<h1 align="center">Hi, I’m Chelsea 👋</h1>
 
-<!--
-**yvelltt/yvelltt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Fullstack Developer | System Design Enthusiast </b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🏢 Skilled in C#, JavaScript (Vue, React), SQL, system design, and data processing
+- 🧑‍💻 Enjoy solving real-world problems, pursuing clean and maintainable code
+- 📝 Love documenting workflows and knowledge, promoting async collaboration
+- 🌱 Currently learning about cloud architecture and large-scale data processing
+- 💡 Interests: system optimization, documentation automation, AI & multisensory design
+- 📫 Feel free to contact me via [Email](mailto:limo1878@gmail.com)!
+
+---
+
+### 🛠️ Tech Stack
+
+- Backend: C#, .NET, Node.js
+- Frontend: Vue.js, React, Next.js, Tailwind CSS, Angular
+- Database: MSSQL, MySQL, MariaDB, Redis
+- Others: Git, GitHub Actions, Docker
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="Chelsea's GitHub stats" />
+</p>
+
+---
