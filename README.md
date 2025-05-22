@@ -26,11 +26,3 @@
 - Others: Git, GitHub Actions, Docker
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yvelltt&show_icons=true&theme=radical" alt="Chelsea's GitHub stats" />
-</p>
-
----
