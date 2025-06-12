@@ -1,4 +1,3 @@
-<!-- 中文版 -->
 <h1 align="center">Hi, I’m Chelsea 👋</h1>
 
 <p align="center">
@@ -27,5 +26,21 @@
 
 ---
 
-### My Blog
-[Blog](https://yvelltt.github.io/blog/)
+### Selected Projects
+
+- massive-file-import-api (C#)
+
+  High-volume data import system with validation, transformation, and rollback logic.  
+  Implements two-pass processing and Server-Sent Events (SSE) to stream real-time progress to the frontend.  
+  GitHub: https://github.com/yvelltt/massive-file-import-api
+
+- massive-file-upload (TypeScript)
+  
+  Frontend uploader that supports file chunking, preview, and progress tracking.  
+  Designed to pair with the backend import system.  
+  GitHub: https://github.com/yvelltt/massive-file-upload
+
+---
+
+### Technical Blog
+Blog: https://yvelltt.github.io/blog/
